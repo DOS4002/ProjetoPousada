@@ -1,0 +1,47 @@
+.imgQs{
+    width: 100%;
+    height: 459px;
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    text-align: center;
+}
+
+.contQs{
+    text-align: center;
+
+}
+
+.textQs{
+    text-align: justify;
+    text-indent: 2%;
+}
+
+.imagemDiego{
+    margin-left: 230px;
+    transform: rotate(90deg);
+    border-radius: 12rem;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+}
+
+.imagemCaio{
+    margin-left: 32px;
+    width: 230px;
+    height: 320px;
+    border-radius: 12rem;
+    box-shadow: 0 8px 32px 0 rgba(83, 83, 90, 0.37);
+}
+
+.equipeAltoMar{
+    display: flex;
+    align-items: center;
+}
+
+.textCaio{
+    margin-left: 20px;
+}
+
+.githubLogo{
+    width: 70px;
+    margin-left: -20px;
+}
